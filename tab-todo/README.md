@@ -2,7 +2,7 @@
 
 A simple and intuitive task management application built as a Microsoft Teams tab. Track your team's tasks, mark them as complete, and keep everyone organized right within Teams.
 
-![Team Task Board](https://github.com/user-attachments/assets/e8121c82-ddbc-493f-9afb-34db2a4b8e73)
+![Team Task Board](./assets/screenshot.png)
 
 ## Features
 
@@ -90,4 +90,3 @@ The app uses React with TypeScript to manage tasks in state. Key features:
 - [Publish the app to your organization or the Microsoft app store](https://learn.microsoft.com/microsoftteams/platform/toolkit/publish)
 - [Enable the app for multi-tenant](https://aka.ms/m365-agent-multi-tenancy-entra-app)
 - [Preview the app on mobile clients](https://aka.ms/teamsfx-mobile)
-- [test]
