@@ -191,5 +191,5 @@ This is a personal development repository. Individual apps may have different li
 ---
 
 **Last Updated**: January 2026  
-**Maintainer**: Your Name  
+**Maintainer**: Alexandr Abdulca  
 **Status**: Active Development
