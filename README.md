@@ -4,19 +4,18 @@ A collection of Microsoft Teams applications including tabs, bots, meeting exten
 
 ## 📁 Repository Structure
 
-This repository contains multiple Microsoft Teams applications, each in its own folder:
+This repository contains multiple Microsoft Teams applications organized in the samples folder:
 ```
 ms-teams-apps/
-├── tab-todo/              # Task management tab app
-├── bot-helpdesk/          # Coming soon: Help desk bot
-├── meeting-notes/         # Coming soon: Meeting notes extension
-├── message-extension/     # Coming soon: Message extension
+├── samples/
+│   ├── tab-todo/          # Task management tab app
+│   └── (future projects will go here)
+├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
-## 🚀 Projects
-
-### [Team Task Board](./tab-todo) - Personal Tab
+### [Team Task Board](./samples/tab-todo) - Personal Tab
 A simple task management application for Microsoft Teams.
 - ✅ Create and manage tasks
 - ✅ Mark tasks as complete
